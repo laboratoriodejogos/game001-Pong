@@ -1,5 +1,5 @@
-# <bold>game001-Pong</bold>
-Game Pong criado em P5js
+# game001-Pong
+<bold>Game Pong criado em P5js</bold>
 
 Uninove - Vila Prudente (Manhã) - Jogos Digitais<br>
 
