@@ -4,9 +4,10 @@
 ### Uninove - Vila Prudente (Manhã) - Jogos Digitais<br>
 
 Alunos: <br>
-       Guilherme Tognetti da Silva RA: 3019112011<br>
-       Yuri Janguas Sousa e Silva  RA: 3019111960<br>
-      
+|            Nome             |     RA     |
+|-----------------------------|------------|
+| Guilherme Tognetti da Silva | 3019112011 |
+| Yuri Janguas Sousa e Silva  | 3019111960 |      
       
 
 ### Publicado em: https://laboratoriodejogos.github.io/game001-Pong/
