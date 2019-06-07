@@ -4,10 +4,10 @@
 ### Uninove - Vila Prudente (Manhã) - Jogos Digitais<br>
 
 Alunos: 
-| Nome                          | RA         |
-| ----------------------------- | ---------- |
-| Guilherme Tognetti da Silva   | 3019112011 |
-| Yuri Janguas Sousa e Silva    | 3019111960 |    
+| Nome                        | RA         |
+|-----------------------------|------------|
+| Guilherme Tognetti da Silva | 3019112011 |
+| Yuri Janguas Sousa e Silva  | 3019111960 |    
 
 | NOME                        | RA         |
 |-----------------------------|------------|
