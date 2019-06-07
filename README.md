@@ -10,3 +10,16 @@ Alunos: <br>
       
 <br>Publicado em: https://laboratoriodejogos.github.io/game001-Pong/
 <br>
+
+
+Baseado em:  http://www.ponggame.org/
+
+Entre as adaptações feitas podemos citar:
+
+#Markdown
+-Canvas maior.
+-Cores nas raquetes e na bola.
+-Um modo especial.
+-Nascimento randômico de direção da bola até 8 direções.
+-Aceleração da bola a cada rebatida na raquete.
+-Audio
