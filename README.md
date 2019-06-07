@@ -10,13 +10,15 @@ Alunos: <br>
       
 <br>Publicado em: https://laboratoriodejogos.github.io/game001-Pong/
 <br>
+<br>
+<br>
 
 
-Baseado em:  http://www.ponggame.org/
 
+## Baseado em:  http://www.ponggame.org/
 Entre as adaptações feitas podemos citar:
 
-#Markdown
+# Markdown
 -Canvas maior.
 -Cores nas raquetes e na bola.
 -Um modo especial.
