@@ -1,7 +1,7 @@
 # game001-Pong
-Game Pong criado em P5js
+## Game Pong criado em P5js
 
-Uninove - Vila Prudente (Manhã) - Jogos Digitais<br>
+### Uninove - Vila Prudente (Manhã) - Jogos Digitais<br>
 
 Alunos: <br>
        Guilherme Tognetti da Silva RA: 3019112011<br>
@@ -16,9 +16,7 @@ Alunos: <br>
 
 
 ### Baseado em:  http://www.ponggame.org/
-###Entre as adaptações feitas podemos citar:
-
-# Markdown
+### Entre as adaptações feitas podemos citar:
 - Canvas maior.
 - Cores nas raquetes e na bola.
 - Um modo especial.
