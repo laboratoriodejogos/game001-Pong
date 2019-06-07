@@ -16,7 +16,7 @@ Alunos: <br>
 
 
 
-### Baseado no original:  http://www.ponggame.org/
+#### Baseado no original:  http://www.ponggame.org/
 ### Alterações realizadas nesta versão:
 - Canvas maior.
 - Cores nas raquetes e na bola.
