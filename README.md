@@ -8,15 +8,16 @@ Alunos: <br>
        Yuri Janguas Sousa e Silva  RA: 3019111960<br>
       
       
-<br>Publicado em: https://laboratoriodejogos.github.io/game001-Pong/
+<br>
+### Publicado em: https://laboratoriodejogos.github.io/game001-Pong/
 <br>
 <br>
 <br>
 
 
 
-### Baseado em:  http://www.ponggame.org/
-### Entre as adaptações feitas podemos citar:
+### Baseado no original:  http://www.ponggame.org/
+### Alterações realizadas nesta versão:
 - Canvas maior.
 - Cores nas raquetes e na bola.
 - Um modo especial.
