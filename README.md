@@ -3,7 +3,7 @@
 
 ### Uninove - Vila Prudente (Manhã) - Jogos Digitais<br>
 
-Alunos: 
+
 | Nome                        | RA         |
 |-----------------------------|------------|
 | Guilherme Tognetti da Silva | 3019112011 |
